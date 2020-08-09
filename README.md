@@ -3,7 +3,7 @@
 
 ## git config
 ```sh
-$git config --global name "deeksha raturi"
+$git config --global user.name "deeksha raturi"
 $git config --global user.email "diksharaturi56@gmail.com"
 ```
 ## git init
